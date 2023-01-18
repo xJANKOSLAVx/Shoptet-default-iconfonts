@@ -1,7 +1,6 @@
 # Shoptet-default-iconfonts
 Simple overview of default icon fonts, on individual templates, on the Shoptet palatform.  It is used to make it easier to work with minor modifications of templates.
 
-<<<<<<< HEAD
 Defacto it's a simple cheat sheet I created for myself to make me comfortable to work with. And so I don't have to search or add icons that are already in the template ready in the base.
 ## Contains
 - names of classes
@@ -21,7 +20,3 @@ Defacto it's a simple cheat sheet I created for myself to make me comfortable to
 ## Authors
 
 - [@xJANKOSLAVx](https://www.github.com/xJANKOSLAVx)
-
-=======
-![showcase](https://github.com/xJANKOSLAVx/Shoptet-default-iconfonts/blob/master/showcase.png)
->>>>>>> e955fa263dad535e6d4eb371ed62f215b95b798e
